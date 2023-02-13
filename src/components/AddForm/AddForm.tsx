@@ -6,10 +6,11 @@ import './AddForm.css';
 export const AddForm = () => {
     const [loading, setLoading] = useState(false);
     const [id, setId] = useState('');
+
     const [form, setForm] = useState({
         name: '',
         description: '',
-        price: 0,
+        price: '',
         url: '',
         address: '',
     });
