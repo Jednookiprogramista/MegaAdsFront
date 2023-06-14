@@ -12,6 +12,15 @@ Here is a short gif to show how the app works.Here we can see how we can find an
 ![map-ad1 1](https://github.com/Jednookiprogramista/MegaAdsFront/assets/98560465/b59dce19-6ed2-497e-a093-48ad030d07e3)
 
 
+and how the ad appears on the map after adding it via the form:
+![mappppic1](https://github.com/Jednookiprogramista/MegaAdsFront/assets/98560465/056d1cdb-5e60-48d9-88fd-0fd2259f617d)
+![mappppic2](https://github.com/Jednookiprogramista/MegaAdsFront/assets/98560465/9021228c-e731-4ec3-a8fe-8300e81b8378)
+![mappic3](https://github.com/Jednookiprogramista/MegaAdsFront/assets/98560465/ae540e14-6607-4bd0-8733-e6104ea44829)
+
+
+
+
+
 
 also screenshots of the pages:
 Main page-Map with ads
